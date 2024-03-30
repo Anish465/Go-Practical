@@ -1,0 +1,6 @@
+1) Write a Golang program for generating a Fibonacci
+series. 
+
+
+Fibonacci series of 10 numbers: [0 1 1 2 3 5 8 13 21 34]
+
